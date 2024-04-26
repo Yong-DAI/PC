@@ -1,14 +1,4 @@
-# ------------------------------------------
-# Copyright (c) 2015-present, Facebook, Inc.
-# All rights reserved.
-# ------------------------------------------
-# Modification:
-# Added code for dualprompt implementation
-# -- Jaeho Lee, dlwogh9344@khu.ac.kr
-# ------------------------------------------
-"""
-Train and eval functions used in main.py
-"""
+
 import math
 import sys
 import os
