@@ -1,16 +1,4 @@
-# --------------------------------------------------------
-# Copyright (c) 2015-present, Facebook, Inc.
-# All rights reserved.
-# --------------------------------------------------------
-# Swin Transformer
-# Copyright (c) 2021 Microsoft
-# Licensed under The MIT License [see LICENSE for details]
-# Written by Ze Liu
-# --------------------------------------------------------
-# Modification:
-# Added code for dualprompt implementation
-# -- Jaeho Lee, dlwogh9344@khu.ac.kr
-# --------------------------------------------------------
+
 import os
 import random
 
