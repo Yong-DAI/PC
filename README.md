@@ -42,4 +42,4 @@ set the--use_env in main.py as --eval
 And then run the main.py
 Or you can directly evaluate the model by our provided trained model in "https://pan.baidu.com/s/1vZIpDEgYh23lla59WQzfOQ?pwd=uigy.
 
-Thanks for your concerning.
+Thanks for your concerning. This repo is based on the DualPrompt Implementation.
