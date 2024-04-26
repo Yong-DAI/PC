@@ -17,13 +17,7 @@ for some einops/einsum fun
 * Simple transformer style inspired by Andrej Karpathy's https://github.com/karpathy/minGPT
 * Bert reference code checks against Huggingface Transformers and Tensorflow Bert
 
-Hacked together by / Copyright 2020, Ross Wightman
-# ------------------------------------------
-# Modification:
-# Added code for dualprompt implementation
-# -- Jaeho Lee, dlwogh9344@khu.ac.kr
-# ------------------------------------------
-"""
+
 import math
 import logging
 from functools import partial
