@@ -1,14 +1,4 @@
-# ------------------------------------------
-# Copyright (c) 2015-present, Facebook, Inc.
-# All rights reserved.
-# ------------------------------------------
-# Modification:
-# Added code for dualprompt implementation
-# -- Jaeho Lee, dlwogh9344@khu.ac.kr
-# ------------------------------------------
-"""
-A script to run multinode training with submitit.
-"""
+
 import argparse
 import os
 import uuid
