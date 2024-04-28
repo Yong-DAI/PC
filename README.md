@@ -1,5 +1,7 @@
 Official code for the manuscript "Prompt Customization for Continual Learning"
 
+For any problems, please feel free to contect me at chd-dy@foxmail.com
+
 ## trained model could be found in "https://pan.baidu.com/s/1vZIpDEgYh23lla59WQzfOQ?pwd=uigy 
 提取码：uigy"
 
